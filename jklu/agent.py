@@ -113,6 +113,9 @@ class JKLUAgent:
         # Verified B.Des key chunks (eligibility, fees, specialisations, curriculum)
         bdes_cids = ("68a5ed8c52-0000", "7a3fc7b2fe-0000", "e08a507321-0000", "97de2bec53-0001", "26d54c68ee-0000", "4c16ed4b45-0000", "367306ad64-0000", "bcd89dff70-0000", "b167065a58-0002", "cc1be9fb7a-0000")
         self._bdes_chunks = [c for cid in bdes_cids if (c := self.kb.get_chunk(cid))]
+        # Verified B.Tech key chunks (eligibility, fees, admission process, curriculum)
+        btech_cids = ("68a5ed8c52-0000", "7a3fc7b2fe-0000", "314bd551e8-0002", "3a0732ce2f-0000", "e8f8896b6f-0001", "fc39067d7f-0000", "13688686c5-0006")
+        self._btech_chunks = [c for cid in btech_cids if (c := self.kb.get_chunk(cid))]
         self.memory = SelfAgenticMemory(kb=self.kb)
         log.info("Agent ready | chunks=%d | retrieval=%s | llm=%s | self_rag_memory=%d",
                  len(self.kb.chunks), "semantic+bm25" if self.kb.semantic else "lexical+bm25",
@@ -498,6 +501,26 @@ class JKLUAgent:
                 for c in bdes_top
             ]
             passages = bdes_items + [p for p in passages if p["chunk_id"] not in bdes_top_ids]
+            search["results"] = passages
+            if "academics" not in search.get("routed", []):
+                search.setdefault("routed", []).append("academics")
+
+        # Prioritize verified B.Tech records for B.Tech-specific queries
+        is_btech_q = bool(re.search(r"\b(btech|b\.?tech|cse|computer science|bachelor of technology|engineering programme)\b", q_comb))
+        if is_btech_q and hasattr(self, "_btech_chunks") and self._btech_chunks:
+            if any(k in q_comb for k in ("fee", "fees", "cost", "tuition")):
+                p_cids = ("e08a507321-0000", "3a0732ce2f-0000", "97de2bec53-0001")
+            elif any(k in q_comb for k in ("eligib", "criteria", "admission", "requirement", "qualif", "selection", "process")):
+                p_cids = ("68a5ed8c52-0000", "7a3fc7b2fe-0000", "314bd551e8-0002")
+            else:
+                p_cids = ("e8f8896b6f-0001", "fc39067d7f-0000", "13688686c5-0006", "68a5ed8c52-0000")
+            btech_top = [c for cid in p_cids if (c := self.kb.get_chunk(cid))]
+            btech_top_ids = {c["chunk_id"] for c in btech_top}
+            btech_items = [
+                dict(c, dense_score=c.get("dense_score") or 0.88, fused_score=c.get("fused_score") or 0.88)
+                for c in btech_top
+            ]
+            passages = btech_items + [p for p in passages if p["chunk_id"] not in btech_top_ids]
             search["results"] = passages
             if "academics" not in search.get("routed", []):
                 search.setdefault("routed", []).append("academics")

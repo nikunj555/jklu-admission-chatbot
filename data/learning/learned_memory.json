@@ -50,17 +50,21 @@
       "what do freshers earn on average?",
       "what is the median salary for btech?",
       "how much package can i get after btech from jklu?",
-      "who are the top recruiters for placements?"
+      "who are the top recruiters for placements?",
+      "What is the highest package at JKLU?",
+      "What are the placement packages at JKLU?"
     ],
     "category": "academics",
     "chunk_ids": [
       "d580c35126-0049",
-      "d580c35126-0050"
+      "d580c35126-0050",
+      "eaad97fa55-0000",
+      "eaad97fa55-0001"
     ],
     "verified_answer": "### JKLU Placement Highlights (B.Tech - 2024 Batch):\n- **Highest CTC / Package**: **INR 22.5 LPA** [1]\n- **Average CTC / Package**: **INR 8.10 LPA** [1]\n- **Top 10% Average CTC**: **INR 18.07 LPA** [1]\n- **Placement Success Rate**: Up to **100% placement** for eligible registered students [1]\n- **Top Recruiters**: Infosys, Tata Consultancy Services (TCS), IBM, KPMG, and leading technology & consulting firms [1].",
     "sources": [],
     "confidence": 0.98,
-    "hits": 10,
+    "hits": 12,
     "feedback_up": 0,
     "feedback_down": 0,
     "embedding": [
@@ -450,7 +454,7 @@
       0.0336923785507679
     ],
     "created_at": 1792247725,
-    "updated_at": 1792247725
+    "updated_at": 1793476741
   },
   {
     "id": "mem_placement_eligibility",
@@ -1707,16 +1711,20 @@
     "canonical_query": "Explain the complete B Tech admission professor step by step",
     "patterns": [
       "Explain the complete B.Tech admission process step by step.",
-      "What is the admission process for B.Tech CSE?"
+      "What is the admission process for B.Tech CSE?",
+      "Tell me about B.Tech CSE eligibility, fees, and campus placements."
     ],
     "category": "admission",
     "chunk_ids": [
       "eaad97fa55-0000",
       "eaad97fa55-0004",
       "eaad97fa55-0005",
-      "b167065a58-0002"
+      "b167065a58-0002",
+      "e08a507321-0000",
+      "3a0732ce2f-0000",
+      "97de2bec53-0001"
     ],
-    "verified_answer": "- **Deadline Compliance**: Strictly adhere to all application deadlines, resume submission windows, and form submissions. [3]\n- Once your application is complete, the admissions team will contact you to schedule a faculty interaction—an informal interview to understand your interests, motivations, and aptitude for the program. [4]\n- This step is mandatory and helps us assess your fitness for the JKLU experience. [4]\n- BBA: No entrance test required. Admissions based on past academic record and faculty interaction. [4]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 3,
@@ -1746,7 +1754,7 @@
       }
     ],
     "confidence": 0.829,
-    "hits": 2,
+    "hits": 3,
     "feedback_up": 0,
     "feedback_down": 0,
     "embedding": [
@@ -2136,7 +2144,7 @@
       -0.023587414994835854
     ],
     "created_at": 1792257565,
-    "updated_at": 1792576876
+    "updated_at": 1793476730
   },
   {
     "id": "mem_7575000",
@@ -3944,7 +3952,7 @@
       "eaad97fa55-0005",
       "b167065a58-0002"
     ],
-    "verified_answer": "- **Deadline Compliance**: Strictly adhere to all application deadlines, resume submission windows, and form submissions. [3]\n- Once your application is complete, the admissions team will contact you to schedule a faculty interaction—an informal interview to understand your interests, motivations, and aptitude for the program. [4]\n- To begin your application, you must first register on our online admissions portal. [5]\n- Once registered, you can log in anytime to continue or review your application. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 3,
@@ -4392,7 +4400,7 @@
       "eaad97fa55-0005",
       "b167065a58-0002"
     ],
-    "verified_answer": "- Once your application is complete, the admissions team will contact you to schedule a faculty interaction—an informal interview to understand your interests, motivations, and aptitude for the program. [4]\n- If you are shortlisted, you will receive a Provisional Offer of Admission by email, which includes: [4]\n- Accept the offer by logging into the admissions portal [5]\n- Once your admission is confirmed, you will be welcomed into the vibrant and inclusive JKLU community. You’ll receive updates about the induction programme, campus orientation (Aarambh), hostel accommodation, and class schedule. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 4,
@@ -4827,7 +4835,7 @@
       "eaad97fa55-0005",
       "b167065a58-0002"
     ],
-    "verified_answer": "- **Deadline Compliance**: Strictly adhere to all application deadlines, resume submission windows, and form submissions. [3]\n- Once your application is complete, the admissions team will contact you to schedule a faculty interaction—an informal interview to understand your interests, motivations, and aptitude for the program. [4]\n- Deadline for confirming admission [5]\n- Once your admission is confirmed, you will be welcomed into the vibrant and inclusive JKLU community. You’ll receive updates about the induction programme, campus orientation (Aarambh), hostel accommodation, and class schedule. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 3,
@@ -5276,7 +5284,7 @@
       "e08a507321-0004",
       "e08a507321-0005"
     ],
-    "verified_answer": "- Students are not required to pay tuition fee to JKLU during the course of their study at the partner institution. [1]\n- Our Computer Science Labs are equipped with state-of-the-art technology, including advanced CPUs and GPUs. These facilities offer a transformative learning environment where theoretical knowledge meets practical application, enabling students to deepen their understanding and pro ciency in complex concepts. [2]\n- For hostel students, a refundable security deposit of INR 5,000 will be charged with the first year’s fees and is refundable upon leaving the hostel. [3]\n- The fees mentioned are applicable to citizens of India and SAARC countries. [3]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -5724,7 +5732,7 @@
       "eaad97fa55-0005",
       "b167065a58-0002"
     ],
-    "verified_answer": "- **Deadline Compliance**: Strictly adhere to all application deadlines, resume submission windows, and form submissions. [3]\n- Once your application is complete, the admissions team will contact you to schedule a faculty interaction—an informal interview to understand your interests, motivations, and aptitude for the program. [4]\n- To begin your application, you must first register on our online admissions portal. [5]\n- Once registered, you can log in anytime to continue or review your application. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 3,
@@ -5767,7 +5775,7 @@
       }
     ],
     "confidence": 0.745,
-    "hits": 1,
+    "hits": 2,
     "feedback_up": 0,
     "feedback_down": 0,
     "embedding": [
@@ -6157,7 +6165,7 @@
       -0.007473635487258434
     ],
     "created_at": 1792257617,
-    "updated_at": 1792257617
+    "updated_at": 1793476399
   },
   {
     "id": "mem_7621000",
@@ -6172,7 +6180,7 @@
       "eaad97fa55-0005",
       "b167065a58-0002"
     ],
-    "verified_answer": "- Once your application is complete, the admissions team will contact you to schedule a faculty interaction—an informal interview to understand your interests, motivations, and aptitude for the program. [4]\n- Depending on the program you’re applying for, you may need to appear for a relevant entrance exam: [4]\n- Our admissions team is here to help you every step of the way. Whether you have questions about our programs or need support with your application, we’re just a call away. [5]\n- Learn about the step-by-step application process to apply for your chosen program. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 4,
@@ -7047,16 +7055,18 @@
     "canonical_query": "What are the eligibility criteria for B Tech CSE",
     "patterns": [
       "What are the eligibility criteria for B.Tech CSE?",
-      "What is the eligibility for B.Tech in CSE at JKLU?"
+      "What is the eligibility for B.Tech in CSE at JKLU?",
+      "What is the eligibility for B.Tech in CSE?",
+      "What is the eligibility for B.Tech at JKLU?"
     ],
     "category": "admission",
     "chunk_ids": [
-      "eaad97fa55-0000",
-      "eaad97fa55-0001",
-      "eaad97fa55-0002",
-      "eaad97fa55-0003"
+      "68a5ed8c52-0000",
+      "7a3fc7b2fe-0000",
+      "314bd551e8-0002",
+      "314bd551e8-0003"
     ],
-    "verified_answer": "- JKLU Placement Guidelines: Registration Documents, Eligibility Criteria, Preparation & Career Profiles [1]\n- Official guidelines and operational protocols for campus placements, recruitment eligibility, student career profiles, and preparation at JK Lakshmipat University (JKLU). [1]\n- **Eligibility Declaration**: Signed student undertaking declaring accuracy of submitted credentials and adherence to recruitment codes. [4]\n- # 2. Placement Eligibility Criteria [4]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -7086,7 +7096,7 @@
       }
     ],
     "confidence": 0.737,
-    "hits": 2,
+    "hits": 6,
     "feedback_up": 0,
     "feedback_down": 0,
     "embedding": [
@@ -7476,7 +7486,7 @@
       -0.014995928853750229
     ],
     "created_at": 1792257641,
-    "updated_at": 1793021390
+    "updated_at": 1793476655
   },
   {
     "id": "mem_7645000",
@@ -7939,7 +7949,7 @@
       "eaad97fa55-0005",
       "b167065a58-0002"
     ],
-    "verified_answer": "- **Deadline Compliance**: Strictly adhere to all application deadlines, resume submission windows, and form submissions. [3]\n- Once your application is complete, the admissions team will contact you to schedule a faculty interaction—an informal interview to understand your interests, motivations, and aptitude for the program. [4]\n- **Class 10 Passing Certificate**: Secondary School Passing Certificate issued by the examination board (CBSE, ICSE, or State Board). [5]\n- **Class 12 Migration Certificate**: Official Migration Certificate from the concerned education board (CBSE, ICSE, or State Board), if required. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 3,
@@ -8387,7 +8397,7 @@
       "eaad97fa55-0005",
       "7a3fc7b2fe-0000"
     ],
-    "verified_answer": "- **Secondary & Higher Secondary Cut-offs**: Fulfillment of company-specific minimum percentage requirements in Class 10 and Class 12 (often 60% or 65%+ aggregate). [2]\n- Eligibility Home Admissions Eligibility Undergraduate Postgraduate Doctoral (PhD) Undergraduate Bachelor of Design (B.Des) Applicants must achieve a minimum of 60% aggregate marks in Class XII, including English and three subjects of their choice. [4]\n- (iv) The result shall then be declared by the Examination Section [5]\n- However, after scrutiny of the detailed result, if it is observed that there has been a distinct change of standard in the Examination as a whole or in a particular course, it may be referred to the Moderation Committee, specially constituted for the purpose by the Vice Chancellor before declaring the ",
+    "verified_answer": "",
     "sources": [
       {
         "n": 2,
@@ -8835,7 +8845,7 @@
       "eaad97fa55-0002",
       "eaad97fa55-0003"
     ],
-    "verified_answer": "- **Gap-Year Affidavit**: Notarized gap-year affidavit/certificate explaining academic break or gap years between Class 12 and university enrollment, if applicable. [5]\n- **Hostel Allotment Confirmation & Forms**: Signed hostel admission form, room allotment slip, hostel rule acceptance undertaking, and medical history declaration (if opting for campus residence). [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 5,
@@ -10549,7 +10559,7 @@
       "eaad97fa55-0002",
       "eaad97fa55-0003"
     ],
-    "verified_answer": "- JKLU Placement Guidelines: Registration Documents, Eligibility Criteria, Preparation & Career Profiles [1]\n- Official guidelines and operational protocols for campus placements, recruitment eligibility, student career profiles, and preparation at JK Lakshmipat University (JKLU). [1]\n- **Class 12 Marksheet & Passing Certificate**: Official senior secondary qualifying examination marksheet and certificate. [2]\n- **Secondary & Higher Secondary Cut-offs**: Fulfillment of company-specific minimum percentage requirements in Class 10 and Class 12 (often 60% or 65%+ aggregate). [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -10998,7 +11008,7 @@
       "eaad97fa55-0005",
       "85e982d131-0002"
     ],
-    "verified_answer": "- **Secondary & Higher Secondary Cut-offs**: Fulfillment of company-specific minimum percentage requirements in Class 10 and Class 12 (often 60% or 65%+ aggregate). [2]\n- **Graduation Benchmark**: Minimum graduation/programme CGPA required at the time of final onboarding. [2]\n- At JKLU, the BBA (Hons.) programme offers the following specialisations: Marketing, Entrepreneurship, BFSI (Banking, Financial Services, and Insurance), and Business Analytics [5]\n- The BBA (Hons.) programme at JK Lakshmipat University is a 4-year undergraduate course. However, students can also choose to exit after 3 years with a BBA degree, providing flexibility depending on their career objectives. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 2,
@@ -11433,7 +11443,7 @@
       "38190408f7-0008",
       "38190408f7-0023"
     ],
-    "verified_answer": "- Amar Nath Patra; designation: Associate Professor; department: Computer Science and Engineering; institute: Institute of Engineering & Technology; teaching_areas: Computer Networks Cloud Computing Operating Systems Computer Organization Artificial Neural Networks Object Oriented Programming; research_interests: Self-Reconfigurable UAV Networks Wireless Networks Secure Distributed ML Metaverse Cloud Computing; profile_text: Dr. [1]\n- Amar Nath Patra holds a Ph.D. in Computer Science & Engineering from the University of Nevada, Reno, bringing over a decade of combined academic and corporate experience to his role. [1]\n- Amit Kumar Sinhal; designation: Professor; department: Computer Science and Engineering; institute: Institute of Engineering & Technology; teaching_areas: Software Engineer",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -11868,7 +11878,7 @@
       "38190408f7-0008",
       "38190408f7-0023"
     ],
-    "verified_answer": "- Amar Nath Patra; designation: Associate Professor; department: Computer Science and Engineering; institute: Institute of Engineering & Technology; teaching_areas: Computer Networks Cloud Computing Operating Systems Computer Organization Artificial Neural Networks Object Oriented Programming; research_interests: Self-Reconfigurable UAV Networks Wireless Networks Secure Distributed ML Metaverse Cloud Computing; profile_text: Dr. [1]\n- His research contributions include publications in the areas of UAV networks, Secure Distributed Machine Learning (ML), and the Metaverse. [1]\n- Akshat Agrawal; designation: Associate Professor; department: Computer Science and Engineering; institute: Institute of Engineering & Technology; teaching_areas: Data Structure Using C Fundamentals of Machine Learnin",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -12316,7 +12326,7 @@
       "eaad97fa55-0005",
       "7a3fc7b2fe-0000"
     ],
-    "verified_answer": "- JKLU Placement Guidelines: Registration Documents, Eligibility Criteria, Preparation & Career Profiles [1]\n- Official guidelines and operational protocols for campus placements, recruitment eligibility, student career profiles, and preparation at JK Lakshmipat University (JKLU). [1]\n- # 1. Placement Registration Documents [1]\n- **Minimum CGPA Requirement**: Candidate must satisfy the specific cut-off CGPA mandated by individual recruiting companies (commonly 6.0, 6.5, 7.0, or 7.5+). [2]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -13204,7 +13214,9 @@
       "d580c35126-0049",
       "d580c35126-0050",
       "e08a507321-0004",
-      "e08a507321-0000"
+      "e08a507321-0000",
+      "3a0732ce2f-0000",
+      "97de2bec53-0001"
     ],
     "verified_answer": "Based on the provided context, the tuition fee for B Tech (Bachelor of Technology) at JK Lakshmipat University is:\n\n\nAcademic Fee (Annual):\n2,84,000\nTechnology Fee (Annual):\n10,000\nAdmission Fee (One Time):\n5,000\n\n\nPlease note that the provided fee structure is for the academic year 2026-27. For different programs or years, kindly refer to the official university website or contact the university admissions office for accurate and up-to-date fee information.",
     "sources": [
@@ -13249,7 +13261,7 @@
       }
     ],
     "confidence": 0.764,
-    "hits": 19,
+    "hits": 21,
     "feedback_up": 0,
     "feedback_down": 0,
     "embedding": [
@@ -13639,7 +13651,7 @@
       -0.05678090825676918
     ],
     "created_at": 1792257823,
-    "updated_at": 1793021677
+    "updated_at": 1793476717
   },
   {
     "id": "mem_7830000",
@@ -14541,7 +14553,7 @@
       "e08a507321-0004",
       "e08a507321-0005"
     ],
-    "verified_answer": "- KPMG Specialization Fee of Rs.40,000 per year (for 3 years) is additional, if opted. [3]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 3,
@@ -14964,7 +14976,7 @@
       "eaad97fa55-0002",
       "eaad97fa55-0003"
     ],
-    "verified_answer": "- JKLU Placement Guidelines: Registration Documents, Eligibility Criteria, Preparation & Career Profiles [1]\n- Official guidelines and operational protocols for campus placements, recruitment eligibility, student career profiles, and preparation at JK Lakshmipat University (JKLU). [1]\n- **Eligibility Declaration**: Signed student undertaking declaring accuracy of submitted credentials and adherence to recruitment codes. [4]\n- # 2. Placement Eligibility Criteria [4]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -16282,7 +16294,7 @@
       "eaad97fa55-0002",
       "eaad97fa55-0003"
     ],
-    "verified_answer": "- CGPA of Previous Year: > 8.5 and 9.0; Performance-based Scholarship for Next Year: 25% [5]\n- CGPA of Previous Year: 8.0 and 8.5; Performance-based Scholarship for Next Year: 10% [5]\n- In order to avail a scholarship after the first year, students must obtain a minimum CGPA of 8. [5]\n- Apart from scholarships, the university provides financial assistance to students by facilitating applications for educational loans from external financial organizations. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 5,
@@ -18035,7 +18047,7 @@
       "eaad97fa55-0002",
       "eaad97fa55-0003"
     ],
-    "verified_answer": "- JKLU Placement Guidelines: Registration Documents, Eligibility Criteria, Preparation & Career Profiles [1]\n- Official guidelines and operational protocols for campus placements, recruitment eligibility, student career profiles, and preparation at JK Lakshmipat University (JKLU). [1]\n- **University Email ID**: Student's active, official university email address for placement communications, test links, and interview schedules. [1]\n- **Enrollment / Registration Number**: Official university enrollment number issued by the Registrar. [1]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -18892,7 +18904,7 @@
       "eaad97fa55-0005",
       "b167065a58-0002"
     ],
-    "verified_answer": "- **Deadline Compliance**: Strictly adhere to all application deadlines, resume submission windows, and form submissions. [3]\n- Once your application is complete, the admissions team will contact you to schedule a faculty interaction—an informal interview to understand your interests, motivations, and aptitude for the program. [4]\n- Date of Admission: Amount deposited on Admission: [5]\n- Kindly complete all the details and forward the information to admissions@jklu.edu.in. Additionally, please include a copy of both the cancelled cheque and the fee receipt along with this application. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 3,
@@ -22846,7 +22858,7 @@
       "eaad97fa55-0005",
       "b167065a58-0002"
     ],
-    "verified_answer": "- **Code of Conduct Compliance**: Adherence to the university placement policy, including acceptance of job offers, notice periods, and ethical conduct during corporate interactions. [3]\n- Important Dates for the Next Semester (Even Semester 2026-27) | [5]\n- Important Dates for the Next Semester (Even Semester 2026-27): Online Registrations start [5]\n- Important Dates for the Next Semester (Even Semester 2026-27): Physical Reporting and Commencement of Classes [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 3,
@@ -23281,7 +23293,7 @@
       "eaad97fa55-0005",
       "b167065a58-0002"
     ],
-    "verified_answer": "- **Deadline Compliance**: Strictly adhere to all application deadlines, resume submission windows, and form submissions. [3]\n- Once your application is complete, the admissions team will contact you to schedule a faculty interaction—an informal interview to understand your interests, motivations, and aptitude for the program. [4]\n- Our admissions team is here to help you every step of the way. Whether you have questions about our programs or need support with your application, we’re just a call away. [5]\n- Learn about the step-by-step application process to apply for your chosen program. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 3,
@@ -24575,7 +24587,7 @@
       "38190408f7-0008",
       "38190408f7-0011"
     ],
-    "verified_answer": "- Amar Nath Patra; designation: Associate Professor; department: Computer Science and Engineering; institute: Institute of Engineering & Technology; teaching_areas: Computer Networks Cloud Computing Operating Systems Computer Organization Artificial Neural Networks Object Oriented Programming; research_interests: Self-Reconfigurable UAV Networks Wireless Networks Secure Distributed ML Metaverse Cloud Computing; profile_text: Dr. [1]\n- Amit Kumar Sinhal; designation: Professor; department: Computer Science and Engineering; institute: Institute of Engineering & Technology; teaching_areas: Software Engineering AR-VR Python Programming Data Structures Object Oriented Programming; research_interests: AI-ML Data Analytics; profile_text: Dr. [2]\n- Akshat Agrawal; designation: Associate Professor;",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -25023,7 +25035,7 @@
       "eaad97fa55-0002",
       "eaad97fa55-0003"
     ],
-    "verified_answer": "- Students seeking campus placement opportunities through the university Placement Cell must register and submit the following verified documentation: [1]\n- **Mobile Number**: Student's active primary mobile contact number for urgent WhatsApp updates and recruitment calls. [1]\n- **Student Placement Profile**: Comprehensive candidate dossier including career objectives, verified academic scores, and contact information. [4]\n- **Data Sharing Consent**: Written consent authorizing the Placement Cell to share the candidate's resume, academic history, and contact details with visiting corporate recruiters. [4]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -25458,7 +25470,7 @@
       "38190408f7-0008",
       "38190408f7-0011"
     ],
-    "verified_answer": "- Amar Nath Patra; designation: Associate Professor; department: Computer Science and Engineering; institute: Institute of Engineering & Technology; teaching_areas: Computer Networks Cloud Computing Operating Systems Computer Organization Artificial Neural Networks Object Oriented Programming; research_interests: Self-Reconfigurable UAV Networks Wireless Networks Secure Distributed ML Metaverse Cloud Computing; profile_text: Dr. [1]\n- Amit Kumar Sinhal; designation: Professor; department: Computer Science and Engineering; institute: Institute of Engineering & Technology; teaching_areas: Software Engineering AR-VR Python Programming Data Structures Object Oriented Programming; research_interests: AI-ML Data Analytics; profile_text: Dr. [2]\n- He has over 27 years of extensive experience in s",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -25893,7 +25905,7 @@
       "38190408f7-0008",
       "38190408f7-0011"
     ],
-    "verified_answer": "- Amar Nath Patra; designation: Associate Professor; department: Computer Science and Engineering; institute: Institute of Engineering & Technology; teaching_areas: Computer Networks Cloud Computing Operating Systems Computer Organization Artificial Neural Networks Object Oriented Programming; research_interests: Self-Reconfigurable UAV Networks Wireless Networks Secure Distributed ML Metaverse Cloud Computing; profile_text: Dr. [1]\n- Amit Kumar Sinhal; designation: Professor; department: Computer Science and Engineering; institute: Institute of Engineering & Technology; teaching_areas: Software Engineering AR-VR Python Programming Data Structures Object Oriented Programming; research_interests: AI-ML Data Analytics; profile_text: Dr. [2]\n- Akshat Agrawal; designation: Associate Professor;",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -26341,7 +26353,7 @@
       "38190408f7-0008",
       "38190408f7-0011"
     ],
-    "verified_answer": "- Amar Nath Patra; designation: Associate Professor; department: Computer Science and Engineering; institute: Institute of Engineering & Technology; teaching_areas: Computer Networks Cloud Computing Operating Systems Computer Organization Artificial Neural Networks Object Oriented Programming; research_interests: Self-Reconfigurable UAV Networks Wireless Networks Secure Distributed ML Metaverse Cloud Computing; profile_text: Dr. [1]\n- His research contributions include publications in the areas of UAV networks, Secure Distributed Machine Learning (ML), and the Metaverse. [1]\n- Amit Kumar Sinhal; designation: Professor; department: Computer Science and Engineering; institute: Institute of Engineering & Technology; teaching_areas: Software Engineering AR-VR Python Programming Data Structures",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -26789,7 +26801,7 @@
       "eaad97fa55-0002",
       "eaad97fa55-0003"
     ],
-    "verified_answer": "- Official guidelines and operational protocols for campus placements, recruitment eligibility, student career profiles, and preparation at JK Lakshmipat University (JKLU). [1]\n- **University Email ID**: Student's active, official university email address for placement communications, test links, and interview schedules. [1]\n- **Enrollment / Registration Number**: Official university enrollment number issued by the Registrar. [1]\n- **Student Placement Profile**: Comprehensive candidate dossier including career objectives, verified academic scores, and contact information. [4]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -27646,7 +27658,7 @@
       "eaad97fa55-0005",
       "85e982d131-0002"
     ],
-    "verified_answer": "- **High-Speed Wi-Fi Connectivity**: High-bandwidth campus Wi-Fi access points strategically installed throughout hostel corridors and wings for seamless internet connectivity. [5]\n- **Air Conditioning / Climate Options**: Availability of both Air-Conditioned (AC) and well-ventilated Non-AC accommodation options across single, double, and quad sharing layouts. [5]\n- **Common Areas**: Vibrant common lounges, recreational TV rooms, indoor games spaces (table tennis, carrom, chess), and communal reading lobbies. [5]\n- # 2. Comprehensive Hostel Services [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 5,
@@ -28068,7 +28080,7 @@
       "eaad97fa55-0005",
       "85e982d131-0002"
     ],
-    "verified_answer": "- **Backlog Criteria**: No active/standing academic backlogs at the time of recruitment, unless specifically permitted by the recruiter. [2]\n- ## Recruitment Process Eligibility [2]\n- Learn about the step-by-step application process to apply for your chosen program. [4]\n- **Mess & Dining Facility**: Spacious, hygienic student dining mess serving four nutritious meals daily (Breakfast, Lunch, Evening Snacks, and Dinner) overseen by student mess committees. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 2,
@@ -30640,7 +30652,7 @@
       "eaad97fa55-0005",
       "85e982d131-0002"
     ],
-    "verified_answer": "- Any existing damage, defect, or requirement for repair/replacement must be reported to the Hostel Warden within the specified timeline. [5]\n- Students are responsible for maintaining their rooms, furniture, and hostel property in good order and condition throughout their stay and must comply with all hostel rules and codes of conduct. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 5,
@@ -31062,7 +31074,7 @@
       "eaad97fa55-0005",
       "85e982d131-0002"
     ],
-    "verified_answer": "- Laundry facility is available behind BH-II and is offered free of cost for washing, drying, ironing, and proper folding. [5]\n- Hostellers need to visit the laundry for the first time for registration. [5]\n- A personal card and laundry bag will be issued. [5]\n- Students are prohibited from washing or drying clothes in the hostel premises. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 5,
@@ -31484,7 +31496,7 @@
       "eaad97fa55-0005",
       "b167065a58-0002"
     ],
-    "verified_answer": "- Official guidelines and operational protocols for campus placements, recruitment eligibility, student career profiles, and preparation at JK Lakshmipat University (JKLU). [1]\n- Students seeking campus placement opportunities through the university Placement Cell must register and submit the following verified documentation: [1]\n- **Secondary & Higher Secondary Cut-offs**: Fulfillment of company-specific minimum percentage requirements in Class 10 and Class 12 (often 60% or 65%+ aggregate). [2]\n- To maintain an orderly, scholarly environment, all library patrons must adhere to official LRC rules: [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -31932,7 +31944,7 @@
       "eaad97fa55-0005",
       "85e982d131-0002"
     ],
-    "verified_answer": "- ## Recruitment Process Eligibility [2]\n- Learn about the step-by-step application process to apply for your chosen program. [4]\n- Day scholars seeking temporary hostel accommodation for academic requirements, project work, family exigencies, or any other personal reason must follow the process outlined below: [5]\n- For short stays other than university-approved events, accommodation may be granted only after obtaining prior approval from the concerned department/authority, followed by approval from the Chief/Head Warden, and shall be subject to availability. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 2,
@@ -32372,7 +32384,8 @@
     "canonical_query": "Where can I find official information about campus facilities",
     "patterns": [
       "Where can I find official information about campus facilities?",
-      "Where can I find official information about the campus?"
+      "Where can I find official information about the campus?",
+      "Where is the campus located?"
     ],
     "category": "general",
     "chunk_ids": [
@@ -32398,7 +32411,7 @@
       }
     ],
     "confidence": 0.765,
-    "hits": 2,
+    "hits": 3,
     "feedback_up": 0,
     "feedback_down": 0,
     "embedding": [
@@ -32788,7 +32801,7 @@
       0.013941360637545586
     ],
     "created_at": 1792258223,
-    "updated_at": 1792258341
+    "updated_at": 1793476629
   },
   {
     "id": "mem_8226000",
@@ -32803,7 +32816,7 @@
       "eaad97fa55-0005",
       "85e982d131-0002"
     ],
-    "verified_answer": "- Our admissions team is here to help you every step of the way. Whether you have questions about our programs or need support with your application, we’re just a call away. [4]\n- No student is allowed to stay outside their hostel room between 2:00 AM and 6:00 AM unless prior written approval has been obtained from the competent authority. [5]\n- A. Guests Including Parents/Guardians [5]\n- Guests and visitors, including parents/guardians, may meet their wards only in the designated common room areas of the respective hostels between 8:00 AM and 8:00 PM. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 4,
@@ -35770,7 +35783,7 @@
       "eaad97fa55-0002",
       "eaad97fa55-0003"
     ],
-    "verified_answer": "- JKLU Placement Guidelines: Registration Documents, Eligibility Criteria, Preparation & Career Profiles [1]\n- Official guidelines and operational protocols for campus placements, recruitment eligibility, student career profiles, and preparation at JK Lakshmipat University (JKLU). [1]\n- Students seeking campus placement opportunities through the university Placement Cell must register and submit the following verified documentation: [1]\n- **Student Placement Profile**: Comprehensive candidate dossier including career objectives, verified academic scores, and contact information. [4]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -36205,7 +36218,7 @@
       "38190408f7-0008",
       "38190408f7-0011"
     ],
-    "verified_answer": "- His research contributions include publications in the areas of UAV networks, Secure Distributed Machine Learning (ML), and the Metaverse. [1]\n- Amit Kumar Sinhal; designation: Professor; department: Computer Science and Engineering; institute: Institute of Engineering & Technology; teaching_areas: Software Engineering AR-VR Python Programming Data Structures Object Oriented Programming; research_interests: AI-ML Data Analytics; profile_text: Dr. [2]\n- Akshat Agrawal; designation: Associate Professor; department: Computer Science and Engineering; institute: Institute of Engineering & Technology; teaching_areas: Data Structure Using C Fundamentals of Machine Learning Deep Learning Programming in C Python Programming Language Artificial Neural Networks Basics of Artificial Intelligence; re",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -36653,7 +36666,7 @@
       "eaad97fa55-0005",
       "7a3fc7b2fe-0000"
     ],
-    "verified_answer": "- Students seeking campus placement opportunities through the university Placement Cell must register and submit the following verified documentation: [1]\n- Diverse learning methodologies that foster endless opportunities. [5]\n- Bene t from a close and sustained dialogue with the industry. Leverage the advantages of mentorship, counselling, and work opportunities. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -37932,7 +37945,7 @@
       "eaad97fa55-0005",
       "5e630c2793-0291"
     ],
-    "verified_answer": "- JKLU Placement Guidelines: Registration Documents, Eligibility Criteria, Preparation & Career Profiles [1]\n- 75% attendance at the end of Mid-Term Examination–II / Mid Term Examination in the case of Programmes having only one Mid Term [4]\n- This is to certify that I ________________________ of ________________ Programme have failed to secure the required 75% attendance by the last instructional day prior to the Mid-Term Examination-II/Mid Term Examination of ________________ course/s. [4]\n- Cumulative attendance of each course has to be displayed on the notice board by the Institute prior to the Mid term examination/s and the End term examination. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -38380,7 +38393,7 @@
       "eaad97fa55-0005",
       "85e982d131-0002"
     ],
-    "verified_answer": "- **Minimum CGPA Requirement**: Candidate must satisfy the specific cut-off CGPA mandated by individual recruiting companies (commonly 6.0, 6.5, 7.0, or 7.5+). [2]\n- **Graduation Benchmark**: Minimum graduation/programme CGPA required at the time of final onboarding. [2]\n- shall be Registrar of the University or his/her nominee not below the rank of a Deputy Registrar who will be the Non-member Secretary to deal with the cases of alleged use of unfair means and / or misconduct in relation to an Examination. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 2,
@@ -38815,7 +38828,7 @@
       "eaad97fa55-0005",
       "b167065a58-0002"
     ],
-    "verified_answer": "- **Backlog Criteria**: No active/standing academic backlogs at the time of recruitment, unless specifically permitted by the recruiter. [2]\n- Academic Performance: Satisfactory Unsatisfactory; Grades: S U; Grade Point: NA NA [5]\n- Academic Performance: Waived; Grades: W; Grade Point: NA [5]\n- The mean and the standard deviation of marks obtained for all the students in a course shall be calculated and the grades shall be awarded to a student by the concerned course faculty as per university policy 5. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 2,
@@ -39250,7 +39263,7 @@
       "eaad97fa55-0002",
       "eaad97fa55-0003"
     ],
-    "verified_answer": "- **Resume / Curriculum Vitae (CV)**: Standardized, updated, and Placement Cell-approved resume. [3]\n- **Technical & Online Course Certifications**: Industry-recognized certifications (e.g. AWS, Azure, Google Cloud, Cisco, Coursera, NPTEL, edX) and specialized skill credentials. [3]\n- In case of failing in Re-test, the student will be required to take the entire course again, registering whenever it is being offered. [5]\n- In case of failing any CORE course, the course will come in the category of backlog courses. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 3,
@@ -39685,7 +39698,7 @@
       "eaad97fa55-0005",
       "40627eba73-0008"
     ],
-    "verified_answer": "- **Minimum CGPA Requirement**: Candidate must satisfy the specific cut-off CGPA mandated by individual recruiting companies (commonly 6.0, 6.5, 7.0, or 7.5+). [2]\n- **Backlog Criteria**: No active/standing academic backlogs at the time of recruitment, unless specifically permitted by the recruiter. [2]\n- **Previous Backlog Clearance**: All historical backlogs must have been cleared in prior supplementary/re-evaluation examinations. [2]\n- 7. | • If the student with a backlog appears in the End-Term Examination offered along with the students of the relevant semester the following year, he/she shall have to attempt the same question paper of the relevant semester irrespective of changes, if any, in the course content. [4]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 2,
@@ -40120,7 +40133,7 @@
       "eaad97fa55-0005",
       "85e982d131-0002"
     ],
-    "verified_answer": "- **Previous Backlog Clearance**: All historical backlogs must have been cleared in prior supplementary/re-evaluation examinations. [2]\n- ## Recruitment Process Eligibility [2]\n- Our admissions team is here to help you every step of the way. Whether you have questions about our programs or need support with your application, we’re just a call away. [4]\n- Learn about the step-by-step application process to apply for your chosen program. [4]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 2,
@@ -40555,7 +40568,7 @@
       "eaad97fa55-0005",
       "85e982d131-0002"
     ],
-    "verified_answer": "- **Test & Interview Attendance**: Mandatory punctual appearance for all online/offline assessments, technical coding rounds, and interview calls once shortlisted. [3]\n- **Code of Conduct Compliance**: Adherence to the university placement policy, including acceptance of job offers, notice periods, and ethical conduct during corporate interactions. [3]\n- Organize specialized training for faculty and staff to qualify them as internal auditors and evaluators. [5]\n- Assess the readiness of academic programs and faculty for accreditation and certification, providing guidance for necessary preparations. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 3,
@@ -40990,7 +41003,7 @@
       "eaad97fa55-0002",
       "eaad97fa55-0003"
     ],
-    "verified_answer": "- **Project Certificates**: Documentation, live repository links, and evaluation certificates for academic capstone, minor, or independent technical projects. [3]\n- **Student Placement Profile**: Comprehensive candidate dossier including career objectives, verified academic scores, and contact information. [4]\n- **Data Sharing Consent**: Written consent authorizing the Placement Cell to share the candidate's resume, academic history, and contact details with visiting corporate recruiters. [4]\n- Rules for Identification and Classification of Academically Deficient Students [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 3,
@@ -41860,7 +41873,7 @@
       "eaad97fa55-0002",
       "eaad97fa55-0003"
     ],
-    "verified_answer": "- **Government Photo ID**: Valid government-issued photo identity proof (Aadhaar Card, Passport, Voter ID, or Driving License). [2]\n- **Project Certificates**: Documentation, live repository links, and evaluation certificates for academic capstone, minor, or independent technical projects. [3]\n- **Student Placement Profile**: Comprehensive candidate dossier including career objectives, verified academic scores, and contact information. [4]\n- Any act of omission/ commission/indiscipline which affects the reputation or prestige of the University or any act or conduct unbecoming of an employee of JKLU or any breach of these service rules shall amount to misconduct whether committed within or outside the premises of JKLU. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 2,
@@ -43152,7 +43165,7 @@
       "38190408f7-0008",
       "38190408f7-0011"
     ],
-    "verified_answer": "- Amar Nath Patra; designation: Associate Professor; department: Computer Science and Engineering; institute: Institute of Engineering & Technology; teaching_areas: Computer Networks Cloud Computing Operating Systems Computer Organization Artificial Neural Networks Object Oriented Programming; research_interests: Self-Reconfigurable UAV Networks Wireless Networks Secure Distributed ML Metaverse Cloud Computing; profile_text: Dr. [1]\n- His research contributions include publications in the areas of UAV networks, Secure Distributed Machine Learning (ML), and the Metaverse. [1]\n- Amit Kumar Sinhal; designation: Professor; department: Computer Science and Engineering; institute: Institute of Engineering & Technology; teaching_areas: Software Engineering AR-VR Python Programming Data Structures",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -43587,7 +43600,7 @@
       "eaad97fa55-0002",
       "eaad97fa55-0003"
     ],
-    "verified_answer": "- **CGPA / SGPA Records**: Latest official grade transcript validating cumulative and semester performance. [2]\n- Important Dates for the Next Semester (Even Semester 2026-27): Online Registrations start [5]\n- Important Dates for the Next Semester (Even Semester 2026-27): Physical Reporting and Commencement of Classes [5]\n- Important Dates for the Next Semester (Even Semester 2026-27): Last date of Physical Reporting with late fine [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 2,
@@ -44022,7 +44035,7 @@
       "eaad97fa55-0002",
       "eaad97fa55-0003"
     ],
-    "verified_answer": "- JKLU Placement Guidelines: Registration Documents, Eligibility Criteria, Preparation & Career Profiles [1]\n- Official guidelines and operational protocols for campus placements, recruitment eligibility, student career profiles, and preparation at JK Lakshmipat University (JKLU). [1]\n- **University Email ID**: Student's active, official university email address for placement communications, test links, and interview schedules. [1]\n- **CGPA / SGPA Records**: Latest official grade transcript validating cumulative and semester performance. [2]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -44457,7 +44470,7 @@
       "eaad97fa55-0005",
       "85e982d131-0002"
     ],
-    "verified_answer": "- Official guidelines and operational protocols for campus placements, recruitment eligibility, student career profiles, and preparation at JK Lakshmipat University (JKLU). [1]\n- Students seeking campus placement opportunities through the university Placement Cell must register and submit the following verified documentation: [1]\n- The JK Lakshmipat University campus is spread across 30 acres of lush greenery, located in Mahapura, just off Ajmer Road. [5]\n- Students and visitors can easily reach the campus via taxi services from Jaipur International Airport and Jaipur Railway Station. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -44487,7 +44500,7 @@
       }
     ],
     "confidence": 0.99,
-    "hits": 1,
+    "hits": 3,
     "feedback_up": 0,
     "feedback_down": 0,
     "embedding": [
@@ -44877,7 +44890,7 @@
       0.016777273267507553
     ],
     "created_at": 1792258323,
-    "updated_at": 1792258323
+    "updated_at": 1793476665
   },
   {
     "id": "mem_8325000",
@@ -44892,7 +44905,7 @@
       "eaad97fa55-0002",
       "eaad97fa55-0003"
     ],
-    "verified_answer": "- Official guidelines and operational protocols for campus placements, recruitment eligibility, student career profiles, and preparation at JK Lakshmipat University (JKLU). [1]\n- **University Email ID**: Student's active, official university email address for placement communications, test links, and interview schedules. [1]\n- **Enrollment / Registration Number**: Official university enrollment number issued by the Registrar. [1]\n- **Class 10 Marksheet & Passing Certificate**: Official secondary school examination marksheet and certificate. [2]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -45327,7 +45340,7 @@
       "eaad97fa55-0005",
       "b167065a58-0002"
     ],
-    "verified_answer": "- Students seeking campus placement opportunities through the university Placement Cell must register and submit the following verified documentation: [1]\n- **Mobile Number**: Student's active primary mobile contact number for urgent WhatsApp updates and recruitment calls. [1]\n- **Enrollment / Registration Number**: Official university enrollment number issued by the Registrar. [1]\n- Once your application is complete, the admissions team will contact you to schedule a faculty interaction—an informal interview to understand your interests, motivations, and aptitude for the program. [4]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -45762,7 +45775,7 @@
       "eaad97fa55-0005",
       "b167065a58-0002"
     ],
-    "verified_answer": "- Official guidelines and operational protocols for campus placements, recruitment eligibility, student career profiles, and preparation at JK Lakshmipat University (JKLU). [1]\n- **University Email ID**: Student's active, official university email address for placement communications, test links, and interview schedules. [1]\n- Once your application is complete, the admissions team will contact you to schedule a faculty interaction—an informal interview to understand your interests, motivations, and aptitude for the program. [4]\n- If you are shortlisted, you will receive a Provisional Offer of Admission by email, which includes: [4]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -46197,7 +46210,7 @@
       "eaad97fa55-0005",
       "b167065a58-0002"
     ],
-    "verified_answer": "- **Deadline Compliance**: Strictly adhere to all application deadlines, resume submission windows, and form submissions. [3]\n- Once your application is complete, the admissions team will contact you to schedule a faculty interaction—an informal interview to understand your interests, motivations, and aptitude for the program. [4]\n- To begin your application, you must first register on our online admissions portal. [5]\n- Once registered, you can log in anytime to continue or review your application. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 3,
@@ -46646,7 +46659,7 @@
       "eaad97fa55-0002",
       "eaad97fa55-0003"
     ],
-    "verified_answer": "- Students seeking campus placement opportunities through the university Placement Cell must register and submit the following verified documentation: [1]\n- **Mobile Number**: Student's active primary mobile contact number for urgent WhatsApp updates and recruitment calls. [1]\n- **Enrollment / Registration Number**: Official university enrollment number issued by the Registrar. [1]\n- **Student Placement Profile**: Comprehensive candidate dossier including career objectives, verified academic scores, and contact information. [4]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -46676,7 +46689,7 @@
       }
     ],
     "confidence": 0.752,
-    "hits": 9,
+    "hits": 10,
     "feedback_up": 0,
     "feedback_down": 0,
     "embedding": [
@@ -47066,7 +47079,7 @@
       -0.006825817283242941
     ],
     "created_at": 1792258338,
-    "updated_at": 1793021673
+    "updated_at": 1793476710
   },
   {
     "id": "mem_8343000",
@@ -47081,7 +47094,7 @@
       "e08a507321-0004",
       "e08a507321-0000"
     ],
-    "verified_answer": "- Programme: Bachelor of Design; Duration: 4 Year; Academic Fee (Annual): 3,51,000; Technology Fee (Annual): 30,000; Admission Fee (One Time): 5,000 [4]\n- Programme: Master of Design; Duration: 2 Year; Academic Fee (Annual): 3,02,000; Technology Fee (Annual): 30,000; Admission Fee (One Time): 5,000 [4]\n- Programme: Bachelor of Technology; Duration: 4 Year; Academic Fee (Annual): 2,84,000; Technology Fee (Annual): 10,000; Admission Fee (One Time): 5,000 [4]\n- Programme: Master of Technology; Duration: 2 Year; Academic Fee (Annual): 1,80,000; Admission Fee (One Time): 5,000 [4]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 4,
@@ -51389,7 +51402,10 @@
       "eaad97fa55-0000",
       "eaad97fa55-0004",
       "eaad97fa55-0005",
-      "b167065a58-0002"
+      "b167065a58-0002",
+      "e08a507321-0000",
+      "3a0732ce2f-0000",
+      "97de2bec53-0001"
     ],
     "verified_answer": "Based on the provided context, here is the fee structure for the **Master of Technology (M.Tech)** program for the Academic Year **2026-27**:\n\n*   **Academic Fee (Annual):** ₹1,80,000\n*   **Technology Fee (Annual):** Not applicable (listed as \"-\")\n*   **Admission Fee (One Time):** ₹5,000\n\n**Source:** [5], [6]",
     "sources": [
@@ -51421,7 +51437,7 @@
       }
     ],
     "confidence": 0.99,
-    "hits": 9,
+    "hits": 10,
     "feedback_up": 0,
     "feedback_down": 0,
     "embedding": [
@@ -51811,7 +51827,7 @@
       -0.05252756550908089
     ],
     "created_at": 1792409548,
-    "updated_at": 1793021672
+    "updated_at": 1793476709
   },
   {
     "id": "mem_9554000",
@@ -51856,7 +51872,7 @@
       }
     ],
     "confidence": 0.99,
-    "hits": 8,
+    "hits": 9,
     "feedback_up": 0,
     "feedback_down": 0,
     "embedding": [
@@ -52246,7 +52262,7 @@
       -0.04385566711425781
     ],
     "created_at": 1792409554,
-    "updated_at": 1793021673
+    "updated_at": 1793476709
   },
   {
     "id": "mem_9568000",
@@ -52261,7 +52277,7 @@
       "eaad97fa55-0002",
       "eaad97fa55-0003"
     ],
-    "verified_answer": "- **University Email ID**: Student's active, official university email address for placement communications, test links, and interview schedules. [1]\n- After finalization of the marks at the Examination Committee Meeting, the hard copy with the absolute marks of all the components of the assessment of all the courses of the respective semester of the Programme duly signed by the respective faculty member, shall be forwarded by the Examination Committee Chairman (Director) to the Examination Section along with a soft copy. [5]\n- (iii) The absolute marks received from the Examination Committee Chairman shall be compiled by the Examination Section showing the grades, GPA and CGPA. [5]\n- The same shall be verified by the Examination Committee and the hard copy of the verified result shall be f",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -52291,7 +52307,7 @@
       }
     ],
     "confidence": 0.99,
-    "hits": 8,
+    "hits": 9,
     "feedback_up": 0,
     "feedback_down": 0,
     "embedding": [
@@ -52681,7 +52697,7 @@
       -0.000965384126175195
     ],
     "created_at": 1792409568,
-    "updated_at": 1793021675
+    "updated_at": 1793476714
   },
   {
     "id": "mem_9933000",
@@ -52696,7 +52712,7 @@
       "eaad97fa55-0002",
       "eaad97fa55-0003"
     ],
-    "verified_answer": "- JKLU Placement Guidelines: Registration Documents, Eligibility Criteria, Preparation & Career Profiles [1]\n- Official guidelines and operational protocols for campus placements, recruitment eligibility, student career profiles, and preparation at JK Lakshmipat University (JKLU). [1]\n- # 2. Placement Eligibility Criteria [4]\n- **Minimum CGPA Requirement**: Candidate must satisfy the specific cut-off CGPA mandated by individual recruiting companies (commonly 6.0, 6.5, 7.0, or 7.5+). [4]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -54016,7 +54032,7 @@
       "eaad97fa55-0002",
       "eaad97fa55-0003"
     ],
-    "verified_answer": "- JKLU Placement Guidelines: Registration Documents, Eligibility Criteria, Preparation & Career Profiles [1]\n- Official guidelines and operational protocols for campus placements, recruitment eligibility, student career profiles, and preparation at JK Lakshmipat University (JKLU). [1]\n- **Eligibility Declaration**: Signed student undertaking declaring accuracy of submitted credentials and adherence to recruitment codes. [4]\n- # 2. Placement Eligibility Criteria [4]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -54046,7 +54062,7 @@
       }
     ],
     "confidence": 0.99,
-    "hits": 7,
+    "hits": 8,
     "feedback_up": 0,
     "feedback_down": 0,
     "embedding": [
@@ -54436,7 +54452,7 @@
       0.004762094467878342
     ],
     "created_at": 1792432740,
-    "updated_at": 1793021674
+    "updated_at": 1793476712
   },
   {
     "id": "mem_2745000",
@@ -54468,7 +54484,7 @@
       }
     ],
     "confidence": 0.99,
-    "hits": 7,
+    "hits": 8,
     "feedback_up": 0,
     "feedback_down": 0,
     "embedding": [
@@ -54858,7 +54874,7 @@
       0.003659668378531933
     ],
     "created_at": 1792432745,
-    "updated_at": 1793021674
+    "updated_at": 1793476713
   },
   {
     "id": "mem_2999000",
@@ -54873,7 +54889,7 @@
       "eaad97fa55-0005",
       "5e630c2793-0291"
     ],
-    "verified_answer": "- JKLU Placement Guidelines: Registration Documents, Eligibility Criteria, Preparation & Career Profiles [1]\n- 75% attendance at the end of Mid-Term Examination–II / Mid Term Examination in the case of Programmes having only one Mid Term [4]\n- This is to certify that I ________________________ of ________________ Programme have failed to secure the required 75% attendance by the last instructional day prior to the Mid-Term Examination-II/Mid Term Examination of ________________ course/s. [4]\n- Cumulative attendance of each course has to be displayed on the notice board by the Institute prior to the Mid term examination/s and the End term examination. [5]",
+    "verified_answer": "",
     "sources": [
       {
         "n": 1,
@@ -57088,7 +57104,8 @@
       "bba eligibility",
       "bba admission criteria",
       "bba admission eligibility",
-      "who is eligible for bba at jklu?"
+      "who is eligible for bba at jklu?",
+      "What is the eligibility for BBA at JKLU?"
     ],
     "category": "admissions",
     "chunk_ids": [
@@ -57100,12 +57117,12 @@
     "verified_answer": "",
     "sources": [],
     "confidence": 0.98,
-    "hits": 6,
+    "hits": 7,
     "feedback_up": 0,
     "feedback_down": 0,
     "embedding": null,
     "created_at": 1792573446,
-    "updated_at": 1792573497
+    "updated_at": 1793476592
   },
   {
     "id": "mem_bdes_eligibility",
@@ -57117,7 +57134,8 @@
       "bdes eligibility",
       "b.des admission criteria",
       "bdes admission eligibility",
-      "jklu det eligibility for bdes"
+      "jklu det eligibility for bdes",
+      "What is the eligibility for B.Des at JKLU?"
     ],
     "category": "admissions",
     "chunk_ids": [
@@ -57129,12 +57147,12 @@
     "verified_answer": "",
     "sources": [],
     "confidence": 0.98,
-    "hits": 6,
+    "hits": 7,
     "feedback_up": 0,
     "feedback_down": 0,
     "embedding": null,
     "created_at": 1792573446,
-    "updated_at": 1792573499
+    "updated_at": 1793476604
   },
   {
     "id": "mem_bba_specialisations",
